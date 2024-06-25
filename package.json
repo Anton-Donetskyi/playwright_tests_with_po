@@ -1,7 +1,7 @@
 {
   "name": "playwright_tests_with_po",
   "version": "1.0.0",
-  "description": "",
+  "description": "Playwright tests repo is an example of playwright tests implemented using PageObject pattern and fixtures for learning purposes",
   "main": "index.js",
   "scripts": {
     "test": "npx playwright test",

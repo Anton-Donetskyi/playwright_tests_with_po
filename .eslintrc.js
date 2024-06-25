@@ -32,6 +32,8 @@ module.exports = {
                 SwitchCase: 1,
             },
         ],
+        'import/prefer-default-export': 'off',
+        'linebreak-style': ['error', 'windows'],
         'max-len': ['error', {
             code: 120,
             ignoreComments: true,
